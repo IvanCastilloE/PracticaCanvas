@@ -11,5 +11,8 @@
         <Button Canvas.Right="0">Boton 2</Button>
         <Button Canvas.Bottom="0">Boton 3</Button>
         <Button Canvas.Right="0" Canvas.Bottom="0">Boton 4</Button>
+        <Rectangle Fill="Aqua"  Height="50" Width="50" Canvas.Top="120" Canvas.Left="120" Panel.ZIndex="4"></Rectangle>
+        <Rectangle Fill="Crimson" Height="50" Width="50" Canvas.Top="100" Canvas.Left="100" Panel.ZIndex="4"></Rectangle>
+
     </Canvas>
 </Window>
